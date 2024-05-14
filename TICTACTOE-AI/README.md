@@ -1,7 +1,7 @@
 # Pygame TIC-TAC-TOE with AI 
 Welcome to the Pygame Tic-Tac-Toe with AI project! This project showcases a classic game of Tic-Tac-Toe implemented in Python using the Pygame library. With an added twist, the game features an AI opponent that uses the Minimax algorithm, meaning it is impossible to win against it.
 
-##Key Features:
+## Key Features:
 
 **Interactive Gameplay:** Enjoy a user-friendly interface built with Pygame, allowing players to interact with the game board using mouse clicks.
 
@@ -9,7 +9,7 @@ Welcome to the Pygame Tic-Tac-Toe with AI project! This project showcases a clas
 
 **Two Player Mode:** Play against a friend locally on the same computer, taking turns to compete for victory.
 
-##Technologies Used:
+## Technologies Used:
 
 **Python:** The primary programming language used for game logic and AI implementation.
 
@@ -18,7 +18,7 @@ Welcome to the Pygame Tic-Tac-Toe with AI project! This project showcases a clas
 **Minimax Algorithm:** Implemented for the AI opponent to make optimal moves and provide challenging gameplay.
 
 
-##Controls:
+## Controls:
 
 **Press "R"** to reset the game board to its initial state, allowing for a fresh start.
 
@@ -26,5 +26,7 @@ Welcome to the Pygame Tic-Tac-Toe with AI project! This project showcases a clas
 
 **Press "0"** to switch the AI opponent to a random picking state, where it selects its moves randomly, providing a different gameplay experience.
 
-##Screenshots of the game:
+## Screenshots of the game:
+
 ![image](https://github.com/AlexTab12/PersonalProjects/assets/159276721/12115fb7-1283-4e9f-8290-4b49ec4f2155)
+![image](https://github.com/AlexTab12/PersonalProjects/assets/159276721/f3f30cb8-d7f2-443f-9068-32fb4023bde3)
